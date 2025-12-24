@@ -39,6 +39,6 @@ public class Q11_MinimumDepthofBinaryTree {
         root.right.right = new TreeNode(7);
 
         int depth = minDepth(root);
-        System.out.println(depth); // Output: 2
+        System.out.println(depth); 
     }
 }

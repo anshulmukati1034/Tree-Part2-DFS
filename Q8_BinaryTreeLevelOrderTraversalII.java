@@ -42,7 +42,7 @@ public class Q8_BinaryTreeLevelOrderTraversalII {
     }
 
     public static void main(String[] args) {
-        // Example usage:
+        
         TreeNode root = new TreeNode(3);
         root.left = new TreeNode(9);
         root.right = new TreeNode(20);

@@ -23,7 +23,7 @@ public class Q10_AverageofLevelsinBinaryTree {
 
         while (!queue.isEmpty()) {
             int size = queue.size();
-            long sum = 0;  // use long to avoid overflow
+            long sum = 0;  
 
             for (int i = 0; i < size; i++) {
                 TreeNode node = queue.poll();

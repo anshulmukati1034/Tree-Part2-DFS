@@ -48,7 +48,7 @@ public class Q9_BinaryTreeZigzagLevelOrderTraversal {
     }
 
     public static void main(String[] args) {
-        // Example usage:
+        
         TreeNode root = new TreeNode(1);
         root.left = new TreeNode(2);
         root.right = new TreeNode(3);
